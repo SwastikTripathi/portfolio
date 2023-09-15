@@ -1,4 +1,4 @@
-# Links for portfolio sites
+# Links for practice dummy sites (not portfolio):
 
 - Agency Perfect: https://bit.ly/3f6pecR
 - Bakery: https://bit.ly/334Fngl
